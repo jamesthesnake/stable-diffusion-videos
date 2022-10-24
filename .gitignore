@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Extra stuff to ignore
+dreams
+images
+run.py
+examples
+test_outputs
