@@ -1,5 +1,7 @@
 transformers
-git+https://github.com/huggingface/diffusers@f085d2f5c6569a1c0d90327c51328622036ef76e
+diffusers==0.6.0
 scipy
 fire
 gradio
+librosa
+av<10.0.0
